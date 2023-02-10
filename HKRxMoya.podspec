@@ -23,11 +23,11 @@ Using Moya's abstraction and RxSwift's subscription pattern to facilitate networ
 Built-in Log and toast plugins
                        DESC
 
-  s.homepage         = 'https://github.com/oragekk@163.com/HKRxMoya'
+  s.homepage         = 'https://github.com/oragekk/HKRxMoya'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'oragekk@163.com' => 'huangkun@tonshow.cn' }
-  s.source           = { :git => 'https://github.com/oragekk@163.com/HKRxMoya.git', :tag => s.version.to_s }
+  s.author           = { 'oragekk' => 'oragekk@163.com' }
+  s.source           = { :git => 'https://github.com/oragekk/HKRxMoya.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

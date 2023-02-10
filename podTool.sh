@@ -3,7 +3,7 @@
 
 
 POD_SPECS_HTTP="https://github.com/OrageKK/Specs"
-POD_SPECS_NAME="Specs"
+POD_SPECS_NAME="oragekk"
 
 echo "\033[36;1m请选择方式(输入序号,按回车即可) \033[0m"
 echo "\033[33;1m Enter 全部流程       \033[0m"

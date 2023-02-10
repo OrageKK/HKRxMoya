@@ -1,0 +1,37 @@
+{
+  "name": "HKRxMoya",
+  "version": "0.1.0",
+  "summary": "A short description of HKRxMoya.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oragekk@163.com/HKRxMoya",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oragekk@163.com": "huangkun@tonshow.cn"
+  },
+  "source": {
+    "git": "https://github.com/oragekk@163.com/HKRxMoya.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HKRxMoya/Classes/**/*",
+  "frameworks": "CoreTelephony",
+  "dependencies": {
+    "Moya/RxSwift": [
+      "15.0"
+    ],
+    "RxSwift": [
+      "6.5.0"
+    ],
+    "HandyJSON": [
+      "5.0.1"
+    ],
+    "Toast-Swift": [
+      "5.0.1"
+    ]
+  }
+}

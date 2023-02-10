@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.6.4)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HandyJSON (5.0.1)
+  - HKRxMoya (0.1.0):
+    - HandyJSON (= 5.0.1)
+    - Moya/RxSwift (= 15.0)
+    - RxSwift (= 6.5.0)
+    - Toast-Swift (= 5.0.1)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - RxSwift (6.5.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - HKRxMoya (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FBSnapshotTestCase
+    - HandyJSON
+    - Moya
+    - RxSwift
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  HKRxMoya:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  HKRxMoya: 4a75ffb6c5066e98c38a78f0e2504f16e1fe55d0
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: f1a9cf5d6fc4729ae4a552d8385092f4c1f6ef98
+
+COCOAPODS: 1.11.3

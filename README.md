@@ -32,7 +32,7 @@ pod 'HKRxMoya'
 
 ## Author
 
-oragekk@163.com, huangkun@tonshow.cn
+oragekk@163.com,
 
 ## License
 
